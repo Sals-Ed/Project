@@ -1,2 +1,2 @@
 # Project
-Applicated Projects in Python
+$\text{Applicated Projects in Python}$
