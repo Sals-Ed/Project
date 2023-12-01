@@ -147,18 +147,3 @@ def modify(filename: str): #DataFrame
     Voc(word, theVoc.loc[idx]["pos"], theVoc.loc[idx]["mean"]).show()
     data.loc[idx]["mean"] = selection(theVoc.loc[idx]["mean"])
   return data
-
-user_search("stimulate")
-
-new = typein()
-new = csvMake(new)
-
-output(new, "sample.csv")
-
-output(randomVoc(20, "MacroSet.csv"), "casual.csv")
-
-x = modify("sample.csv")
-
-output(x, "sample.csv")
-
-output(paste(["Macro.csv", "sample.csv", "sample 2.csv"]), "MacroSet.csv")
