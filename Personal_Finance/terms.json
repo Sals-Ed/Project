@@ -1,0 +1,22 @@
+{
+    "Account_list": "帳戶清單",
+    "Balance": "餘額",
+    "Bid_Price": "買入單價",
+    "Bid_Value": "買入總值",
+    "Catagory": "交易分類",
+    "Credit": "入帳金額",
+    "Current_Price": "當前單價",
+    "Current_ROI": "當前投資報酬率",
+    "Current_Value": "當前總值",
+    "Debit": "出帳金額",
+    "Event_list": "交易資料",
+    "Institution": "經手機構",
+    "Product_Code": "商品代號",
+    "Product_Name": "商品名稱",
+    "Product_Type": "商品類型",
+    "Quantity": "持有單位數",
+    "Remark": "備註",
+    "Time_Stamp": "交易時間",
+    "Title": "交易名目",
+    "Value": "交易金額"
+}
