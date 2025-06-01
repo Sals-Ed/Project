@@ -26,8 +26,10 @@ for url in articles:
     result.append(temp[0])
     print(f"@@@已分析{count}篇文章@@@")
 
+# #plot the relationship of the analysis data
+# data = []
 # for i in range(20):
-#     data = []
-#     with open(f"result_{i}.txt", "r", encoding="utf-8") as f:
-#         data.extend(eval(f.read()))
+#     with open(f"vector_{i}.txt", "r", encoding="utf-8") as f:
+#         content = f.read()
+#         data.extend(eval(content))
 # integration.plot(data)
